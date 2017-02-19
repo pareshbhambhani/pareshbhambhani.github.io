@@ -207,7 +207,7 @@ jQuery(function ($) {
     }());
 
 
-
+/*
     // -------------------------------------------------------------
     // Fit Vids
     // -------------------------------------------------------------
@@ -222,7 +222,7 @@ jQuery(function ($) {
     // -------------------------------------------------------------
     (function () {
     
-    /* Vimeo API: http://developer.vimeo.com/player/js-api */
+    /* Vimeo API: http://developer.vimeo.com/player/js-api 
     
         var iframe = document.getElementById('nofocusvideo');
         // $f == Froogaloop
@@ -238,7 +238,7 @@ jQuery(function ($) {
     }());
 
 
-
+*/
 
     // -------------------------------------------------------------
     // STELLAR FOR BACKGROUND SCROLLING
